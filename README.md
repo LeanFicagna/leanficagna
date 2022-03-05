@@ -2,7 +2,7 @@
 
 
 - 🔭 Dev Fullstack
-- 🌱 Atualmente estudando Node
+- 🌱 Atualmente estudando Node.js
 - 📫 Contate-me no email: leandersonficagna321@gmail.com
 - 😄 Pronouns: Ele/Dele
 
