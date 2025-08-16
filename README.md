@@ -1,6 +1,6 @@
-## Olá! Sou Leanderson Ficagna, desenvolvedor de software com foco em backend em Java. Tenho experiência também com PHP, SQL, além de conhecimentos em HTML, CSS e JavaScript.
+##👋 Olá! Sou Leanderson Ficagna, desenvolvedor de software com foco em backend em Java. Tenho experiência também com PHP e SQL, além de conhecimentos em HTML, CSS e JavaScript.
 
-## No momento, estou me aprofundando no ecossistema Spring Framework, com ênfase em arquitetura de software, boas práticas de código e no desenvolvimento de aplicações escaláveis e robustas.
+## Atualmente, atuo na CAIXA Econômica Federal, onde tenho a oportunidade de vivenciar grandes desafios em tecnologia. Paralelamente, estou me aprofundando no ecossistema Spring Framework, com foco em arquitetura de software, boas práticas de código e no desenvolvimento de aplicações escaláveis e robustas.
 
 ## Sou estudante de Análise e Desenvolvimento de Software, sempre em constante aprendizado e motivado a encarar novos desafios que contribuam para minha evolução profissional na área de tecnologia.
 
