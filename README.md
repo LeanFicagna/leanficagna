@@ -1,11 +1,14 @@
-## Olá! Eu sou o Leanderson 👋
+## Olá! Sou Leanderson Ficagna, desenvolvedor de software com foco em backend em Java. Tenho experiência também com PHP, SQL, além de conhecimentos em HTML, CSS e JavaScript.
+
+## No momento, estou me aprofundando no ecossistema Spring Framework, com ênfase em arquitetura de software, boas práticas de código e no desenvolvimento de aplicações escaláveis e robustas.
+
+##Sou estudante de Análise e Desenvolvimento de Software, sempre em constante aprendizado e motivado a encarar novos desafios que contribuam para minha evolução profissional na área de tecnologia.
 
 
-- 🔭 Dev Fullstack
-- 🌱 PHP; MySQL; Wordpress; WooCommerce; HTML; CSS; Javascript.
+- 🔭 Dev Java Backend
+- 🌱 Java; HTML; CSS; Javascript.
 - 📫 Contate-me no email: leandersonficagna321@gmail.com
-- 😄 Pronomes: Ele/Dele
-- 📚 Estudante de Ciência da Computação
+- 📚 Estudante de Análise e Desenvolvimento de Software
 
 <div align="center">
   <a href="https://github.com/leanficagna">
